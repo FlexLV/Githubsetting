@@ -1,0 +1,12 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Default Dark+",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "git.autofetch": true
+}
